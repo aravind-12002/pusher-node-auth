@@ -8,7 +8,7 @@
     "pusher": "0.1.x"
   },
   "engines": {
-    "node": "0.10.x",
+    "node": "0.8.x",
     "npm": "1.1.x"
   }
 }
