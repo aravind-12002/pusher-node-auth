@@ -1,0 +1,14 @@
+{
+  "name": "pusher-node-quickstart",
+  "private": true,
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "3.3.x",
+    "opentok": "0.3.x",
+    "pusher": "0.1.x"
+  },
+  "engines": {
+    "node": "*",
+    "npm": "1.1.x"
+  }
+}
